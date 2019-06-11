@@ -1,0 +1,204 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Željko Stević"
+  label: "Assistant professor"
+  picture: "/assets/icons/zeljkostevic.jpeg"
+  email: "zeljkostevic.ba@gmail.com"
+  phone: "pozovi me ba"
+  website: "https://zeljkostevic.github.io/"
+  summary: >
+    Good communication skills. For example, Achieved international cooperation with a large number of foreign scientists from several continents as evidenced by published scientific papers in cooperation with the mentioned.
+  location:
+    address: ""
+    postalCode: ""
+    city: ""
+    countryCode: "BA"
+    region: ""
+  profiles:
+    - network: "LinkedIn"
+      username: "zeljkostevic"
+      url: "https://www.linkedin.com/in/zeljkostevic"
+work:
+  - company: "University of East Sarajevo, Faculty of Transport and Traffic Engineering"
+    position: "PR"
+    website: "https://www.University of East Sarajevo, Faculty of Transport and Traffic Engineering.com"
+    startDate: "01-08-2018"
+    endDate: ""
+    summary: >
+      Ljubljana, Slovenia
+    highlights:
+      - Development and budget allocation of yearly PR activities for University of East Sarajevo, Faculty of Transport and Traffic Engineering Slovenia, University of East Sarajevo, Faculty of Transport and Traffic Engineering Croatia, University of East Sarajevo, Faculty of Transport and Traffic Engineering Serbia and University of East Sarajevo, Faculty of Transport and Traffic Engineering Bosnia and Herzegovina
+      - Manage communication and coordination with PR agencies for University of East Sarajevo, Faculty of Transport and Traffic Engineering Slovenia, University of East Sarajevo, Faculty of Transport and Traffic Engineering Croatia, University of East Sarajevo, Faculty of Transport and Traffic Engineering Serbia, University of East Sarajevo, Faculty of Transport and Traffic Engineering BIH
+      - Manage, develop and coordinate influencers for University of East Sarajevo, Faculty of Transport and Traffic Engineering Instagram profile, University of East Sarajevo, Faculty of Transport and Traffic Engineering Adria
+      - Content advices to PR agencies for advertorials, media newsletters, campaigns, special projects
+      - Event manager, conceptual design and help at organizing events, fashion shows
+  
+  - company: "University of East Sarajevo, Faculty of Transport and Traffic Engineering"
+    position: "Social Media Manager"
+    website: "https://www.University of East Sarajevo, Faculty of Transport and Traffic Engineering.com"
+    startDate: "01-07-2017"
+    endDate: ""
+    summary: >
+      Ljubljana, Slovenia
+    highlights:
+      - Content manager of Facebook University of East Sarajevo, Faculty of Transport and Traffic Engineering Slovenia
+      - Manage communication and coordinate with PR agencies for Facebook University of East Sarajevo, Faculty of Transport and Traffic Engineering Croatia, University of East Sarajevo, Faculty of Transport and Traffic Engineering Serbia, University of East Sarajevo, Faculty of Transport and Traffic Engineering BIH
+      - Content manager of Instagram University of East Sarajevo, Faculty of Transport and Traffic Engineering Adria ( United countries SI, HR, RS, BA)
+      - Manage, develop and coordinate Fashion blog for University of East Sarajevo, Faculty of Transport and Traffic Engineering SI, HR, RS, BA
+      - Manage, develop and coordinate influencers for University of East Sarajevo, Faculty of Transport and Traffic Engineering Instagram profile @University of East Sarajevo, Faculty of Transport and Traffic Engineering_adria
+      - Content manager of University of East Sarajevo, Faculty of Transport and Traffic Engineering Newsletter for Serbia and BIH
+      - conceptual design, budget allocation and planning performance of ad campaigns
+  
+  - company: "University of East Sarajevo, Faculty of Transport and Traffic Engineering"
+    position: "Content creator"
+    website: "https://www.University of East Sarajevo, Faculty of Transport and Traffic Engineering.com"
+    startDate: "01-01-2017"
+    endDate: ""
+    summary: >
+      Ljubljana, Slovenia
+    highlights:
+      - Content creator for social media at University of East Sarajevo, Faculty of Transport and Traffic Engineering Slovenia, Croatia, Serbia and Bosnia & Herzegovina
+      - Responsible for creating and developing new ideas for campaigns
+      - Content manager of University of East Sarajevo, Faculty of Transport and Traffic Engineering Newsletter for Serbia and BIH
+      - Content development to PR agencies for University of East Sarajevo, Faculty of Transport and Traffic Engineering events, fashion shows
+      - Provide content advices for PR agencies when making advertorials, mailings for journalists
+
+  - company: "University of East Sarajevo, Faculty of Transport and Traffic Engineering"
+    position: "Marketing Assistant"
+    website: "https://www.University of East Sarajevo, Faculty of Transport and Traffic Engineering.com"
+    startDate: "01-09-2014"
+    endDate: ""
+    summary: >
+      Ljubljana, Slovenia
+    highlights:
+      - Care for websites University of East Sarajevo, Faculty of Transport and Traffic Engineering Serbia and University of East Sarajevo, Faculty of Transport and Traffic Engineering BIH /online activity
+      - Provide content material for Facebook University of East Sarajevo, Faculty of Transport and Traffic Engineering Slovenia /online activity
+      - Care of providing marketing material for stores in Slovenia, Croatia, Serbia and BIH /offline activity
+      - Care for the stock of marketing materials for stores in Slovenia, Croatia, Serbia, BIH /offline activity
+      - Manage communication and coordination with stores in Slovenia, Croatia, Serbia, BIH/offline activity
+
+education:
+  - institution: "Faculty of Marketing"
+    area: "Information Technology"
+    studyType: "MSc"
+    startDate: "2010-10-01"
+    endDate: "2011-10-28"
+    gpa: "10.00"
+    courses:
+      - "Computer programming"
+  - institution: "Faculty of Marketing"
+    area: "Computer Science"
+    studyType: "BSc"
+    startDate: "2006-10-01"
+    endDate: "2010-09-27"
+    gpa: "9.5"
+    courses:
+      - "Computer programming"
+
+awards:
+  - title: "PRACE Autumn School 2018"
+    date: "2018-09-24"
+    awarder: "CERTIFICATE OF ATTENDENCE"
+    summary: "HPC for Engineering and Chemistry"
+
+  - title: "Training & Research for Academic Newcomers"
+    date: "2017-10-01"
+    awarder: "CERTIFICATE OF ATTENDENCE"
+    summary: "Research Methodology, Preparing Funding Applications & Project Management and Communication & Presentation Skills"
+
+  - title: "Certificate of Training in Responsible Research and Innovation"
+    date: "2016-12-01"
+    awarder: "CERTIFICATE OF ATTENDENCE"
+    summary: "RRI Tools"
+
+  - title: "Training & Research for Academic Newcomers"
+    date: "2016-11-01"
+    awarder: "CERTIFICATE OF ATTENDENCE"
+    summary: "TRAIN program"
+
+  - title: "SAP Introduction Training"
+    date: "2012-06-01"
+    awarder: "CERTIFICATE OF ATTENDENCE"
+    summary: "Heino Schrader University Alliances EMEA SAP AG"
+
+publications:
+  - name: "ADAPTIVE FUZZY MODEL FOR DETERMINATION OF QUALITY ASSESSMENT SERVICES IN SUPPLY CHAIN"
+    publisher: "Technical Gazette"
+    releaseDate: "2018-12-01"
+    website: "https://www.researchgate.net/publication/322266423_Adaptive_fuzzy_model_for_determination_of_quality_assessment_services_in_supply_chain"
+    summary: "The problem that is being addressed in this paper is to improve the services provided by company and achieve better communication among companies in the supply chain."
+
+  - name: "Contribution to the User Requests Management Based on ITIL Implementation"
+    publisher: "International Scientific and Expert Conference (TEAM)"
+    releaseDate: "2012-10-01"
+    website: "http://team2012.sfsb.hr/documents/TEAM_2012_Proceedings.pdf"
+    summary: "Implementing the best practice in IT services organization could be done with support of the of the third party solutions (i.e. CA tools)."
+
+skills:
+  - name: "Development"
+    level: "Master"
+    keywords:
+      - "Social Media"
+      - "Email Marketing"
+      - "Online Advertising"
+      - "Digital Marketing"
+      - "Social Marketing"
+      - "Digital Strategy"
+      - "Public Relations"
+      - "Digital Media"
+      - "Marketing Communications"
+      - "Marketing Strategy"
+      - "Publicity"
+      - "Mobile Marketing"
+      - "Relationship Marketing"
+      - "Integrated Marketing"
+      - "Marketing Management"
+      - "Brand Development"
+      - "Advertising"
+      - "Press Releases"
+      - "Product Launch"
+      - "New Media"
+      - "Creative Strategy"
+      - "Event Planning"
+      - "Management Consulting"
+      - "Media Planning"
+      - "Media Relations"
+      - "Sponsorship"
+      - "Budgeting"
+      - "Experiential Marketing"
+      - "Creative Development"
+      - "Budgets"
+      - "Business Intelligence"
+      - "Event Management"
+      - "Google Analytics"
+      - "YouTube"
+      - "Online PR"
+      - "Online Branding"
+      - "Local Marketing"
+      - "Word Of Mouth Marketing"
+      - "Viral Marketing"
+      - "Social Networking"
+      - "Communications Strategy"
+      - "Brand Communication"
+      - "Website Development"
+      - "Creative Direction"
+      - "Event Marketing"
+
+languages:
+  - language: "Slovenian"
+    fluency: "Native speaker"
+  - language: "English"
+    fluency: "Native speaker"
+  - language: "ExYU"
+    fluency: "Native speaker"
+interests:
+  - name: "Areas"
+    keywords:
+      - "Social Media and Public Relations"
+      - "Digital PR & Social Media"
+references:
+  - name: "Milovan Tomašević, PhD"
+    reference: >
+      The Best
