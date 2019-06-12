@@ -4,7 +4,7 @@ cover: true
 title: Impossible is nothing but a word!
 image: /assets/img/MilovanTomasevic-8.jpeg
 description: >
-  My name is Urška and I work on Deichmann as a PR, digital and social media expert in Ljubljana, Slovenia.
+  My name is Željko and I work on University of East Sarajevo, Faculty of Transport and Traffic Engineering as a Assistant professor.
 hide_description: true
 selected_projects:
 - _projects/povodni-moz.md
@@ -58,6 +58,6 @@ My name is Željko.
 
 <!--author-->
 
-*11..06.2019. 15:15* <br>
+*17.07.2019.* <br>
 
-Željko
+[Željko Stević](/resume/)
